@@ -1,0 +1,5 @@
+1. Create an asset bundle script (generate in editor, desination - StreamingAssets)!
+2. Mark the folder and assets to a bundle
+3. Run script
+4. It generates .assetbundle + .manifest ()
+5. Use assetbundle
